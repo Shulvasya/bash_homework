@@ -1,0 +1,11 @@
+#!/usr/bin/env/ bash
+cat $1
+
+#!/usr/bin/env bash
+for item in $*
+do
+echo $item
+done 
+
+[a]
+
